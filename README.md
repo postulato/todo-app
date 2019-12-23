@@ -7,7 +7,7 @@ login: test@test.com <br>
 password: testpass
 </blockquote>
 
-# you can check this app <a href='postulato.github.io'>here</a>
+# you can check this app <a href='https://postulato.github.io'>here</a>
 
 # app is responsive! you can try it on your smartphone 
  
